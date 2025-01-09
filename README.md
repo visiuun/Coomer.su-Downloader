@@ -1,3 +1,5 @@
+![image](https://styles.redditmedia.com/t5_mihly/styles/communityIcon_mn9vaaiadwbd1.png)
+
 ## Overview
 
 The **Coomer Downloader** is a Python-based utility for downloading content from platforms such as **OnlyFans**, **Fansly**, and **CandFans** through the Coomer API. It simplifies the process of fetching and organizing media files, offering multi-threaded downloads and progress tracking for a seamless experience.
